@@ -1,1 +1,0 @@
-echo "mvnw.bat linguist-vendored" >> .gitattributes
